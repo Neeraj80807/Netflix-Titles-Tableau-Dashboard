@@ -1,6 +1,6 @@
 # Netflix Titles Dashboard
 
-<a href="https://i.ibb.co/2KKhSsN/Netflix.png"><img src="https://i.ibb.co/2KKhSsN/Netflix.png" alt="Netflix" border="0"></a>
+<a href="./src/netflix_dashboard.jpg"><img src="https://i.ibb.co/2KKhSsN/Netflix.png" alt="Netflix" border="0"></a>
 
 This repository contains a README file for a Tableau Public dashboard titled "Netflix Titles Dashboard" created by Neeraj Mishra. The dashboard provides visualizations and insights on Netflix titles.
 
